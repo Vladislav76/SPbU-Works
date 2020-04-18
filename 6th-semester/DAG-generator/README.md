@@ -1,8 +1,8 @@
-# Build:
+### Build:
 > cd build
 > cmake ..
 > make
 
-# Run:
+### Run:
 > cd build
 > ./gen
